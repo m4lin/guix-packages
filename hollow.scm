@@ -1,4 +1,5 @@
-  (use-modules
+;; my first package
+(use-modules
              (gnu packages bash)
              (gnu packages admin)
  (guix licenses)
